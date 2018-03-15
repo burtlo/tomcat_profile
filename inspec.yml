@@ -1,0 +1,8 @@
+name: tomcat
+title: Tomcat Compliance
+maintainer: Franklin Webber
+copyright: Franklin Webber
+copyright_email: frank@chef.io
+license: Apache-2.0
+summary: A Tomcat Compliance Profile
+version: 0.1.0
