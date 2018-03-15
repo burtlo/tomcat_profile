@@ -1,6 +1,8 @@
 # encoding: utf-8
 # copyright: 2018, Franklin Webber
 
+include_controls 'baseline'
+
 title 'Tomcat Correctness'
 
 describe host('localhost', port: 8080, protocol: 'tcp') do

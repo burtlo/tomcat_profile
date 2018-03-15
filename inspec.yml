@@ -5,4 +5,8 @@ copyright: Franklin Webber
 copyright_email: frank@chef.io
 license: Apache-2.0
 summary: A Tomcat Compliance Profile
-version: 0.1.0
+version: 0.2.0
+depends:
+  - name: baseline
+    git: https://github.com/burtlo/baseline
+    branch: master

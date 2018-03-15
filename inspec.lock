@@ -1,3 +1,8 @@
 ---
 lockfile_version: 1
-depends: []
+depends:
+- name: baseline
+  resolved_source:
+    git: https://github.com/burtlo/baseline
+    ref: 742becbe012781ff73fe59489c3c431999a01225
+  version_constraints: "[]"
